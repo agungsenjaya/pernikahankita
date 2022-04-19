@@ -13,7 +13,7 @@ class ApiController extends Controller
     public function comment(Request $request)
     {
         $data = Comment::insert([
-            'client_id' => 1,
+            'client_id' => $request->id,
             'present' => $request->present,
             'name' => $request->name,
             'message' => $request->message,
@@ -30,7 +30,7 @@ class ApiController extends Controller
     public function comment_mantu(Request $request)
     {
         $data = CommentMantu::insert([
-            'client_id' => 1,
+            'client_id' => $request->id,
             'present' => $request->present,
             'name' => $request->name,
             'message' => $request->message,

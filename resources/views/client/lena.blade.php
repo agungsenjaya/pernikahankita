@@ -3,7 +3,7 @@
 @if(!empty($_GET))
 @php $to = htmlspecialchars($_GET["to"]) @endphp
 @endif
-<audio id="audio" src="{{ asset('sound/sound-1.mp3') }}"></audio>
+<audio id="audio" src="{{ asset('sound/sound-2.mp3') }}"></audio>
 <div class="align-items-center d-flex text-center" style="top:0;bottom:0;left:auto;right:0;z-index:2;position:fixed">
 <ul class="list-nav me-3">
     <li class="d-flex justify-content-center mb-3">
@@ -52,12 +52,12 @@
 <div class="modal fade" id="modalClient" tabindex="-1" aria-labelledby="modalClientLabel" aria-hidden="true">
   <div class="modal-dialog modal-fullscreen">
       <div class="position-relative">
-    <div class="modal-content" style="background:url('{{ asset('img/client/gallery/land/lala/DSA_8665.jpg') }}');background-size:cover;background-position:center">
+    <div class="modal-content mod-1" style="background-size:cover;background-position:center">
     <div class="d-flex align-items-center min-vh-100 container text-center">
         <div class="w-100" style="z-index:2">
         <p class="lead text-white">Wedding Invitation</p>
-        <h1 class="display-1 w-1 mb-0 text-white">Lala & Andri</h1>
-        <p class="lead text-white">Minggu, 06 Febuari 2022</p>
+        <h1 class="display-1 w-1 mb-0 text-white">Lena & Michel</h1>
+        <p class="lead text-white">Minggu, 08 Mei 2022</p>
         <button class="btn btn-primary rounded-pill btn-open" onclick="play()" data-bs-dismiss="modal">Open Invitation</button>
         @if(!empty($_GET))
     <div class="text-center mt-3 text-white" style="z-index:1">
@@ -76,12 +76,12 @@
 </div>
 
 <div class="position-relative bg-primary" id="home">
-<div class="min-vh-100" style="background:url('{{ asset('img/client/gallery/land/lala/DSA_8665.jpg') }}');background-size:cover;background-position:center"></div>
+<div class="min-vh-100 mod-1" style="background-size:cover;background-position:center"></div>
 <div class="to-center grad-1 d-flex align-items-center text-center text-white">
     <div class="container">
         <p class="lead">Wedding Invitation</p>
-        <h1 class="display-1 w-1 mb-0">Lala & Andri</h1>
-        <p class="lead">Minggu, 06 Febuari 2022</p>
+        <h1 class="display-1 w-1 mb-0">Lena & Michel</h1>
+        <p class="lead">Minggu, 08 Mei 2022</p>
     </div>
 </div>
 </div>
@@ -147,7 +147,7 @@
         </div>
         <div data-aos="fade-right" data-aos-duration="1000">
             <p>Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir.</p>
-            <p class="w-1 text-primary">(QS.Ar-Rum 21)</p>
+            <p class="w-1">(QS.Ar-Rum 21)</p>
         </div>
     </div>
     </div>
@@ -166,8 +166,8 @@
       <div class="swiper-wrapper">
           @foreach($land as $file)
         <div class="swiper-slide">
-            <a data-fancybox="land" data-src="{{ url('/img/client/gallery/land/lala') .'/' . basename($file) }}" data-caption="Lala & Andri" class="point">
-                <img src="{{ url('/img/client/gallery/land/lala') .'/' . basename($file) }}" alt="" width="100%">
+            <a data-fancybox="land" data-src="{{ url('/img/client/gallery/land/lena') .'/' . basename($file) }}" data-caption="Lena & Michel" class="point">
+                <img src="{{ url('/img/client/gallery/land/lena') .'/' . basename($file) }}" alt="" width="100%">
             </a>
         </div>
         @endforeach
@@ -189,21 +189,21 @@
             <div class="col-md-4" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="100">
                 <div class="card bg-transparent border-0 card-body">
                     <div class="text-center position-relative">
-                        <img src="{{ asset('img/client/1.jpg') }}" alt="" class="rounded-pill" width="70%">
+                        <img src="{{ asset('img/client/3.png') }}" alt="" class="rounded-pill" width="70%">
                         <div class="to-center" style="z-index:-1;margin-left: 4px;margin-top: -14px;">
                             <img src="{{ asset('img/shape-3.png') }}" alt="" class="" width="100%">
                         </div>
                     </div>
                     <div class="card-body">
-                        <h3 class="w-1 text-primary">Lala Sakinah S.PD</h3>
+                        <h3 class="w-1 text-primary">Lena Mardiana</h3>
                         <div class="mb-2">
-                            <a href="" target="_blank">
+                            <a href="https://instagram.com/alenamardiana?igshid=YmMyMTA2M2Y=" target="_blank">
                                 <i class="bi bi-instagram"></i>
                             </a>
                         </div>
                         <div class="badge bg-primary mb-2">Mempelai Wanita</div>
                         <div>
-                            <p class="lead">Putri dari <br> Bapak H.Asep Mulyana, S.AG dan Ibu Ilah Rohilah</p>
+                            <p class="lead">Putri dari <br> Bapak Ade Komarudin dan Ibu Pipih</p>
                         </div>
                 </div>
             </div>
@@ -211,21 +211,21 @@
             <div class="col-md-4" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
                 <div class="card bg-transparent border-0 card-body">
                 <div class="text-center position-relative">
-                        <img src="{{ asset('img/client/2.jpg') }}" alt="" class="rounded-pill" width="70%">
+                        <img src="{{ asset('img/client/4.png') }}" alt="" class="rounded-pill" width="70%">
                         <div class="to-center" style="z-index:-1;margin-left: 4px;margin-top: -14px;">
                             <img src="{{ asset('img/shape-3.png') }}" alt="" class="" width="100%">
                         </div>
                     </div>
                     <div class="card-body">
-                        <h3 class="w-1 text-primary">Andri Septiadi S.AB</h3>
+                        <h3 class="w-1 text-primary">Michel Alfa rizky</h3>
                         <div class="mb-2">
-                            <a href="" target="_blank">
+                            <a href="https://instagram.com/michelalfarisy?igshid=YmMyMTA2M2Y=" target="_blank">
                                 <i class="bi bi-instagram"></i>
                             </a>
                         </div>
                         <div class="badge bg-primary mb-2">Mempelai Pria</div>
                         <div>
-                            <p class="lead">Putra dari <br> Bapak Holikin dan Ibu Erli</p>
+                            <p class="lead">Putra dari <br> Bapak Giyatno dan Ibu Nia Desiman</p>
                         </div>
                 </div>
             </div>
@@ -239,33 +239,31 @@
         <div class="row justify-content-center">
             <div class="col-md-4 mb-4 mb-md-0" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
                 <div class="card h-100">
-                    <img src="{{ asset('img/client/gallery/land/lala/DSA_8527.jpg') }}" alt="" class="card-img-top">
+                    <img src="{{ asset('img/client/gallery/land/lena/DSC01054.jpg') }}" alt="" class="card-img-top">
                     <div class="card-body">
                         <h3 class="w-1 text-primary">Akad Nikah</h3>
                         <hr>
-                        <h5 class="fw-bold text-primary">Bumi Kopi Sukabumi</h5>
-                        <p>Jl. Goalpara Kp. Cikaret , Desa Sukamekar, Kec. Sukaraja, Kabupaten Sukabumi, Jawa Barat 43192</p>
-                        <p><i class="bi bi-clock-fill me-2 text-primary"></i>09.00 - WIB</p>
+                        <h5 class="fw-bold text-primary">Villa Hj Edi Subang Jaya</h5>
+                        <p>Jl Subang Jaya Wetan Kel. Subang Jaya Kec. Cikole Kota Sukabumi (Patokan SMK Persada Sukabumi)</p>
+                        <p><i class="bi bi-clock-fill me-2 text-primary"></i>09.00 WIB</p>
                     </div>
-                    <a class="card-footer bg-primary text-white p-3" href="https://goo.gl/maps/kqZMidjWgeXBCnCT7" target="_blank">
+                    <a class="card-footer bg-primary text-white p-3" href="https://goo.gl/maps/jFDDEDiY9bfULhQa9" target="_blank">
                         Open Gmaps
                     </a>
                 </div>
             </div>
             <div class="col-md-4" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
                 <div class="card h-100">
-                <img src="{{ asset('img/client/gallery/land/lala/DSA_8280.jpg') }}" alt="" class="card-img-top">
+                <img src="{{ asset('img/client/gallery/land/lena/DSC01073.jpg') }}" alt="" class="card-img-top">
                     <div class="card-body">
                         <h3 class="w-1 text-primary">Resepsi</h3>
 
                         <hr>
-                        <h5 class="fw-bold text-primary">Bumi Kopi Sukabumi</h5>
-                        <p>Jl. Goalpara Kp. Cikaret , Desa Sukamekar, Kec. Sukaraja, Kabupaten Sukabumi, Jawa Barat 43192</p>
-                        <p><i class="bi bi-clock-fill me-2 text-primary"></i>Sesi 1 :  11.00 - 13.00 WIB</p>
-                        <p><i class="bi bi-clock-fill me-2 text-primary"></i>Sesi 2 :  13.00 - 15.00 WIB</p>
-                        
+                        <h5 class="fw-bold text-primary">Villa Hj Edi Subang Jaya</h5>
+                        <p>Jl Subang Jaya Wetan Kel. Subang Jaya Kec. Cikole Kota Sukabumi (Patokan SMK Persada Sukabumi)</p>
+                        <p><i class="bi bi-clock-fill me-2 text-primary"></i>11.00 WIB - Selesai</p>
                     </div>
-                    <a class="card-footer bg-primary text-white p-3" href="https://goo.gl/maps/kqZMidjWgeXBCnCT7" target="_blank">
+                    <a class="card-footer bg-primary text-white p-3" href="https://goo.gl/maps/jFDDEDiY9bfULhQa9" target="_blank">
                         Open Gmaps
                     </a>
                 </div>
@@ -285,8 +283,8 @@
       <div class="swiper-wrapper">
           @foreach($pot as $file)
         <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="{{ url('/img/client/gallery/pot/lala') .'/' . basename($file) }}" data-caption="Lala & Andri" class="point">
-                <img src="{{ url('/img/client/gallery/pot/lala') .'/' . basename($file) }}" alt="" width="100%">
+            <a data-fancybox="pot" data-src="{{ url('/img/client/gallery/pot/lena') .'/' . basename($file) }}" data-caption="Lena & Michel" class="point">
+                <img src="{{ url('/img/client/gallery/pot/lena') .'/' . basename($file) }}" alt="" width="100%">
             </a>
         </div>
         @endforeach
@@ -306,10 +304,10 @@
         <i class="bi bi-envelope-open-fill display-1 text-primary"></i>
         <div class="my-3 text-primary" data-aos="zoom-out" data-aos-duration="1000" data-aos-delay="200">
             <div class="mb-3">
-                <i class="bi bi-check-circle-fill me-2"></i><span class="fw-bold">BJB</span> : 0104374646101 - <span class="fw-bold">AN</span> : ANDRI SEPTIADI
+                <i class="bi bi-check-circle-fill me-2"></i><span class="fw-bold">Nama Bank</span> : xxxx - <span class="fw-bold">AN</span> : Atasnama
             </div>
             <div class="">
-                <button type="button" onclick="alert('Success copy rekening')" class="btn btn-copy btn-primary rounded-pill" data-clipboard-text="0104374646101">Copy Rekening</button>
+                <button type="button" onclick="alert('Success copy rekening')" class="btn btn-copy btn-primary rounded-pill" data-clipboard-text="xxxx">Copy Rekening</button>
             </div>
         </div>
     </div>
@@ -382,13 +380,13 @@
 <ul class="list-group list-group-flush list-comn" id="list-comn">
     @foreach($comment->reverse() as $com)
   <li class="list-group-item pt-4">
+    <h5 class="text-primary me-2 text-capitalize">{{ $com->name }}</h5>
       <div class="d-flex justify-content-between mb-2">
           <div class="d-flex">
-              <h5 class="text-primary mb-0 me-2 text-capitalize">{{ $com->name }}</h5>
               @if($com->present == 'yes')
-              <span class="badge py-1 border text-primary border-primary"><i class="bi bi-check-circle-fill me-2"></i>Hadir</span>
+              <span class="badge text-primary p-0 fw-bold"><i class="bi bi-check-circle-fill me-2"></i>Hadir</span>
               @else
-              <span class="badge py-1 border text-primary border-primary"><i class="bi bi-x-circle-fill me-2"></i>Tidak Hadir</span>
+              <span class="badge text-primary p-0 fw-bold"><i class="bi bi-x-circle-fill me-2"></i>Tidak Dapat Hadir</span>
               @endif
             </div>
             <div>
@@ -417,6 +415,21 @@
 @section('css')
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css">
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<style>
+
+@media (max-width: 767.98px) { 
+    .mod-1 {
+        background:url('{{ asset('img/client/gallery/pot/lena/DSC01155.jpg') }}');
+    }
+}
+
+@media (min-width: 991.98px) { 
+    .mod-1 {
+        background:url('{{ asset('img/client/gallery/land/lena/DSC01107.jpg') }}');
+    }
+}
+
+</style>
 @endsection
 @section('js')
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.3.0/jquery.form.min.js" integrity="sha512-YUkaLm+KJ5lQXDBdqBqk7EVhJAdxRnVdT2vtCzwPHSweCzyMgYV/tgGF4/dCyqtCC2eCphz0lRQgatGVdfR0ww==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -464,9 +477,9 @@
         },
       });
 
-      $('#countdown').countdown('2022/02/06', function(event) {
+      $('#countdown').countdown('2022/05/08', function(event) {
             // $(this).html(event.strftime('%d:%H:%M:%S'));
-            $('.days').text(event.strftime('%d'));
+            $('.days').text(event.strftime('%D'));
             $('.hours').text(event.strftime('%H'));
             $('.minute').text(event.strftime('%M'));
             $('.second').text(event.strftime('%S'));
@@ -492,7 +505,7 @@
           type:"POST",
           data:{
             "_token": "{{ csrf_token() }}",
-            id:1,
+            id:2,
             name:name,
             message:message,
             present:present,
@@ -500,19 +513,18 @@
           success:function(response){
             let count = parseInt($('.list-count').text()) + 1;
             $('.list-count').text(count);
-            
 
               let love;
             if (present == 'yes') {
-                love = '<span class="badge py-1 border text-primary border-primary"><i class="bi bi-check-circle-fill me-2"></i>Hadir</span>'
+                love = '<span class="badge text-primary p-0 fw-bold"><i class="bi bi-check-circle-fill me-2"></i>Hadir</span>'
             }else{
-                love = '<span class="badge py-1 border text-primary border-primary"><i class="bi bi-x-circle-fill me-2"></i>Tidak Dapat Hadir</span>'
+                love = '<span class="badge text-primary p-0 fw-bold"><i class="bi bi-x-circle-fill me-2"></i>Tidak Dapat Hadir</span>'
             }
             // console.log(response.data);
             $('#list-comn').prepend(`<li class="list-group-item pt-4">
+            <h5 class="text-primary me-2 text-capitalize">${name}</h5>
                     <div class="d-flex justify-content-between mb-2">
                         <div class="d-flex">
-                            <h5 class="text-primary mb-0 me-2 text-capitalize">${name}</h5>
                             ${love}
                             </div>
                             <div class="text-uppercase text-primary small"> <i class="bi bi-calendar2-fill me-2"></i>{{ date('d M Y') }}</div>
@@ -536,17 +548,21 @@
         //    }
          });
         });
-
-
-
-
-
 </script>
 @endsection
 @section('meta')
-<title>Pernikahankita.id | Lala & Andri</title>
-<meta property="og:title" content="Pernikahankita.id | Lala & Andri" />
-<meta property="og:image" content="{{ asset('img/client/gallery/land/lala/DSA_8665.jpg') }}" />
-<meta property="og:description" content="The wedding of Lala & Andri. Minggu, 06 Febuari 2022" />
-<meta property="og:url" content="{{ route('client.view') }}" />
+<title>Pernikahankita.id | Lena & Michel</title>
+<meta itemprop="name" content="Pernikahankita.id | Lena & Michel">
+<meta itemprop="description" content="The wedding of Lena & Michel. Minggu, 08 Mei 2022">
+<meta itemprop="image" content="{{ asset('img/client/meta-2.jpg') }}">
+
+<meta name="twitter:title" content="Pernikahankita.id | Lena & Michel">
+<meta name="twitter:description" content="The wedding of Lena & Michel. Minggu, 08 Mei 2022">
+<meta name="twitter:image:src" content="{{ asset('img/client/meta-2.jpg') }}">
+<meta name=twitter:card content="summary_large_image">
+
+<meta property="og:title" content="Pernikahankita.id | Lena & Michel" />
+<meta property="og:image" content="{{ asset('img/client/meta-2.jpg') }}" />
+<meta property="og:description" content="The wedding of Lena & Michel. Minggu, 08 Mei 2022" />
+<meta property="og:url" content="{{ route('client.lena') }}" />
 @endsection

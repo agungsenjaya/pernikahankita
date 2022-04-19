@@ -183,7 +183,7 @@
 <section class="space-m" id="profile" style="overflow:hidden">
     <div class="container">
         <div class="text-center" data-aos="zoom-out" data-aos-duration="1000">
-            <h1 class="w-1">Pengantin</h1>
+            <h1 class="w-1 text-primary">Pengantin</h1>
         </div>
         <div class="row justify-content-center text-center">
             <div class="col-md-4" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="100">
@@ -195,7 +195,7 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <h3 class="w-1 mb-0">Lala Sakinah S.PD</h3>
+                        <h3 class="w-1 text-primary">Lala Sakinah S.PD</h3>
                         <div class="mb-2">
                             <a href="" target="_blank">
                                 <i class="bi bi-instagram"></i>
@@ -217,7 +217,7 @@
                         </div>
                     </div>
                     <div class="card-body">
-                        <h3 class="w-1">Andri Septiadi S.AB</h3>
+                        <h3 class="w-1 text-primary">Andri Septiadi S.AB</h3>
                         <div class="mb-2">
                             <a href="" target="_blank">
                                 <i class="bi bi-instagram"></i>
@@ -474,6 +474,7 @@
           type:"POST",
           data:{
             "_token": "{{ csrf_token() }}",
+            id:1,
             name:name,
             message:message,
             present:present,

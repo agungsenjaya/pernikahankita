@@ -25,11 +25,11 @@
         <![endif]-->
         @include('layouts.alert')
         @include('layouts.modal')
-        <div class="page-loading active">
+        <!-- <div class="page-loading active">
             <div class="page-loading-inner">
                 <div class="page-spinner"></div><span>Loading...</span>
             </div>
-        </div>
+        </div> -->
         @include('layouts.header')
         <div class="min-vh-100">
             @yield('content')
