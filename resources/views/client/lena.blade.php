@@ -239,7 +239,7 @@
         <div class="row justify-content-center">
             <div class="col-md-4 mb-4 mb-md-0" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
                 <div class="card h-100">
-                    <img src="{{ asset('img/client/gallery/land/lena/DSC01054.jpg') }}" alt="" class="card-img-top">
+                    <img src="{{ asset('img/client/gallery/pot/lena/DSC01053.jpg') }}" alt="" class="card-img-top">
                     <div class="card-body">
                         <h3 class="w-1 text-primary">Akad Nikah</h3>
                         <hr>
@@ -254,7 +254,7 @@
             </div>
             <div class="col-md-4" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
                 <div class="card h-100">
-                <img src="{{ asset('img/client/gallery/land/lena/DSC01073.jpg') }}" alt="" class="card-img-top">
+                <img src="{{ asset('img/client/gallery/pot/lena/DSC00895.jpg') }}" alt="" class="card-img-top">
                     <div class="card-body">
                         <h3 class="w-1 text-primary">Resepsi</h3>
 
@@ -304,10 +304,10 @@
         <i class="bi bi-envelope-open-fill display-1 text-primary"></i>
         <div class="my-3 text-primary" data-aos="zoom-out" data-aos-duration="1000" data-aos-delay="200">
             <div class="mb-3">
-                <i class="bi bi-check-circle-fill me-2"></i><span class="fw-bold">Nama Bank</span> : xxxx - <span class="fw-bold">AN</span> : Atasnama
+                <i class="bi bi-check-circle-fill me-2"></i><span class="fw-bold">BCA</span> : 3770354802 <br><span class="fw-bold">AN</span> : Michel Alfa Rizky
             </div>
             <div class="">
-                <button type="button" onclick="alert('Success copy rekening')" class="btn btn-copy btn-primary rounded-pill" data-clipboard-text="xxxx">Copy Rekening</button>
+                <button type="button" onclick="alert('Success copy rekening')" class="btn btn-copy btn-primary rounded-pill" data-clipboard-text="3770354802">Copy Rekening</button>
             </div>
         </div>
     </div>
