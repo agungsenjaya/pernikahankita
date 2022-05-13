@@ -33,6 +33,12 @@ class ClientController extends Controller
         return view('client.dita',compact('comment'));
     }
     
+    public function rifha()
+    {
+        $comment = Comment::where('client_id', 4)->get();
+        return view('client.rifha',compact('comment'));
+    }
+    
     public function lala()
     {
         $path1 = public_path('img/client/gallery/pot/lala/');
