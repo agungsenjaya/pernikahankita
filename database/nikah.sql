@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Apr 24, 2022 at 05:11 PM
+-- Generation Time: Jun 25, 2022 at 06:13 AM
 -- Server version: 5.7.33
 -- PHP Version: 7.4.19
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `pernikahan`
+-- Database: `nikah`
 --
 
 -- --------------------------------------------------------
@@ -209,6 +209,15 @@ CREATE TABLE `roles` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `roles`
+--
+
+INSERT INTO `roles` (`id`, `name`, `display_name`, `description`, `created_at`, `updated_at`) VALUES
+(1, 'owner', 'Owner', NULL, '2022-05-07 07:55:26', '2022-05-07 07:55:26'),
+(2, 'admin', 'Admin', NULL, '2022-05-07 07:55:26', '2022-05-07 07:55:26'),
+(3, 'user', 'User', NULL, '2022-05-07 07:55:26', '2022-05-07 07:55:26');
 
 -- --------------------------------------------------------
 
@@ -407,7 +416,7 @@ ALTER TABLE `permissions`
 -- AUTO_INCREMENT for table `roles`
 --
 ALTER TABLE `roles`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT for table `templates`

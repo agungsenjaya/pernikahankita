@@ -3,7 +3,7 @@
 @if(!empty($_GET))
 @php $to = htmlspecialchars($_GET["to"]) @endphp
 @endif
-<audio id="audio" src="http://docs.google.com/uc?export=open&id=1idxZuhfPzZ7hXBxIJ7scBFvG8UzdqHZO"></audio>
+<audio id="audio" src="http://docs.google.com/uc?export=open&id=1VekhUUWu5dSjsL8O1NQWQm_17Z9x37mJ"></audio>
 <div class="align-items-center d-flex text-center" style="top:0;bottom:0;left:auto;right:0;z-index:2;position:fixed">
 <ul class="list-nav me-3">
     <li class="d-flex justify-content-center mb-3">
@@ -56,8 +56,8 @@
     <div class="d-flex align-items-center min-vh-100 container text-center">
         <div class="w-100" style="z-index:2">
         <p class="lead text-white">Wedding Invitation</p>
-        <h1 class="display-1 w-1 mb-0 text-white">Rifha & Haerul</h1>
-        <p class="lead text-white">Minggu, 12 Juni 2022</p>
+        <h1 class="display-1 w-1 mb-0 text-white">Silpia & Jaenudin</h1>
+        <p class="lead text-white">Minggu, 03 Juli 2022</p>
         <button class="btn btn-primary rounded-pill btn-open" onclick="play()" data-bs-dismiss="modal">Open Invitation</button>
         @if(!empty($_GET))
     <div class="text-center mt-3 text-white" style="z-index:1">
@@ -80,8 +80,8 @@
 <div class="to-center grad-1 d-flex align-items-center text-center text-white">
     <div class="container">
         <p class="lead">Wedding Invitation</p>
-        <h1 class="display-1 w-1 mb-0">Rifha & Haerul</h1>
-        <p class="lead">Minggu, 12 Juni 2022</p>
+        <h1 class="display-1 w-1 mb-0">Silpia & Jaenudin</h1>
+        <p class="lead">Minggu, 03 Juli 2022</p>
     </div>
 </div>
 </div>
@@ -160,6 +160,57 @@
     <img src="{{ asset('img/shape-2.jpg') }}" alt="" class="res-img-1">
 </div>
 </div>
+
+<section class="mb-2" style="overflow:hidden" data-aos="fade-down" data-aos-duration="1000" data-aos-delay="200">
+    <div class="">
+    
+    <div class="swiper slider-1" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+      <div class="swiper-wrapper">
+        
+      <div class="swiper-slide">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUREhiaJYPF3V4KTNADWJk-Kye86OPNgTjbnviFVeyQvclrgGNU72BiXQpAAqoiSCrfEgz-eBXG63WWSvGCHJ4H-Giw0hCPP53tLvnQagNgLi4VX5Zt94JgHeanGKssdAypvomRUfzQp7e655GlFEFq=w973-h649-no" data-caption="Silpia & Jaenudin" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLUREhiaJYPF3V4KTNADWJk-Kye86OPNgTjbnviFVeyQvclrgGNU72BiXQpAAqoiSCrfEgz-eBXG63WWSvGCHJ4H-Giw0hCPP53tLvnQagNgLi4VX5Zt94JgHeanGKssdAypvomRUfzQp7e655GlFEFq=w973-h649-no" alt="" width="100%">
+            </a>
+        </div>
+      <div class="swiper-slide">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWupVRK1vBy-CNV6dhi6ueZ-g_WzOt654aS3vfjaNS_9MfGDnu01PWfpRQU2vemdFGhfRS8_7enDKhfVL6tJ6SxuCbiDyI1GmK4K_PDIMpD5lEDVJo88_Tq-SV08LifC9vY9skVNfFiVNUYDXIeLVaE=w973-h649-no" data-caption="Silpia & Jaenudin" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLWupVRK1vBy-CNV6dhi6ueZ-g_WzOt654aS3vfjaNS_9MfGDnu01PWfpRQU2vemdFGhfRS8_7enDKhfVL6tJ6SxuCbiDyI1GmK4K_PDIMpD5lEDVJo88_Tq-SV08LifC9vY9skVNfFiVNUYDXIeLVaE=w973-h649-no" alt="" width="100%">
+            </a>
+        </div>
+      <div class="swiper-slide">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLViw41tkNcyt4P_jUrXCI60IuP-MrBoeuzzziEr3iApsKQRlydrtG7NGUlipVFvJ0KQSGG7mUNXTi7p-uyMbfFFP3PSkPMfMuZ6f1P-jUSG7K-R5jhPRzQ9C5Q2ouumTzv-XJ3yu9ZSDMcu3-EO7CO5=w973-h649-no" data-caption="Silpia & Jaenudin" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLViw41tkNcyt4P_jUrXCI60IuP-MrBoeuzzziEr3iApsKQRlydrtG7NGUlipVFvJ0KQSGG7mUNXTi7p-uyMbfFFP3PSkPMfMuZ6f1P-jUSG7K-R5jhPRzQ9C5Q2ouumTzv-XJ3yu9ZSDMcu3-EO7CO5=w973-h649-no" alt="" width="100%">
+            </a>
+        </div>
+      <div class="swiper-slide">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVY6OcOHCE6347H7SdPhDzY3IMHh25m8x9RjJHFsMDzEOGGCJQDbLUrnJ4f3BVtTMjjTF6K2-CWFzodC-z3F8lZQR3m9xocMDGgg7xYr7tDsTBmJtqWQqpQPTZSaemrUwqMDNftkHAs7SBAWOuN5DOK=w973-h649-no" data-caption="Silpia & Jaenudin" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLVY6OcOHCE6347H7SdPhDzY3IMHh25m8x9RjJHFsMDzEOGGCJQDbLUrnJ4f3BVtTMjjTF6K2-CWFzodC-z3F8lZQR3m9xocMDGgg7xYr7tDsTBmJtqWQqpQPTZSaemrUwqMDNftkHAs7SBAWOuN5DOK=w973-h649-no" alt="" width="100%">
+            </a>
+        </div>
+      <div class="swiper-slide">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVWHbfSYjxFY1xlTN3nyAJWHoltZKMW3neRyJ9foD-2sMZDLWX4MzpJqvtjDncdE10mQc4JVcgD2EF4qWvXtzCU8cC-PSt0ZaDkcsH_LX593EBkGMCIpu7IxhaUeLMgQi01FKJiZNnHcDu7Tt1McJ0p=w973-h649-no" data-caption="Silpia & Jaenudin" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLVWHbfSYjxFY1xlTN3nyAJWHoltZKMW3neRyJ9foD-2sMZDLWX4MzpJqvtjDncdE10mQc4JVcgD2EF4qWvXtzCU8cC-PSt0ZaDkcsH_LX593EBkGMCIpu7IxhaUeLMgQi01FKJiZNnHcDu7Tt1McJ0p=w973-h649-no" alt="" width="100%">
+            </a>
+        </div>
+        <div class="swiper-slide">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVWagCLXCM1zGGK9BGNKbcrsaZwjejyZEvbLD7lXoMWRahUwAeQYhGv31isy416BJDZkjVc6TbeVHVT4wUbT46MP9nFT3e0RpethY3-YFY0IX4SzRDXoema5hFH_E4KoF0LrgCy0WVEStCczZ5kICA5=w973-h649-no" data-caption="Pia & Jae" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLVWagCLXCM1zGGK9BGNKbcrsaZwjejyZEvbLD7lXoMWRahUwAeQYhGv31isy416BJDZkjVc6TbeVHVT4wUbT46MP9nFT3e0RpethY3-YFY0IX4SzRDXoema5hFH_E4KoF0LrgCy0WVEStCczZ5kICA5=w973-h649-no" alt="" width="100%">
+            </a>
+        </div>
+      <div class="swiper-slide">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLXdioy2ZqQQ72YO-yovR-EqQvafD5gALIJssDBsR7XVRgzAoBRmxDRBoKWWxS6XLbLAqnyjzZHL-Ju6qloFntMFZDu-Ew7NwYGKmQazF-z1wsB3IVBNyWyHrIlsh-evJjMNKhrt7DevFn0fW4Khy9Yv=w973-h649-no" data-caption="Silpia & Jaenudin" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLXdioy2ZqQQ72YO-yovR-EqQvafD5gALIJssDBsR7XVRgzAoBRmxDRBoKWWxS6XLbLAqnyjzZHL-Ju6qloFntMFZDu-Ew7NwYGKmQazF-z1wsB3IVBNyWyHrIlsh-evJjMNKhrt7DevFn0fW4Khy9Yv=w973-h649-no" alt="" width="100%">
+            </a>
+        </div>
+
+        
+      </div>
+      <div class="swiper-pagination position-relative mt-4"></div>
+    </div>
+        
+    </div>
+</section>
+
 <div class="grad-2">
 <section class="space-m" id="profile" style="overflow:hidden">
     <div class="container">
@@ -170,21 +221,21 @@
             <div class="col-md-4" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="100">
                 <div class="card bg-transparent border-0 card-body">
                     <div class="text-center position-relative">
-                        <img src="{{ asset('img/client/8.png') }}" alt="" class="rounded-pill" width="70%">
+                        <img src="{{ asset('img/client/9.png') }}" alt="" class="rounded-pill" width="70%">
                         <div class="to-center" style="z-index:-1;margin-left: 4px;margin-top: -14px;">
                             <img src="{{ asset('img/shape-3.png') }}" alt="" class="" width="100%">
                         </div>
                     </div>
                     <div class="card-body">
-                        <h3 class="w-1 text-primary">Rifha Haydar Zakia</h3>
+                        <h3 class="w-1 text-primary">Silpia Rahmayanti</h3>
                         <div class="mb-2">
-                            <a href="https://www.instagram.com/blackqueen.06/" target="_blank">
+                            <a href="https://www.instagram.com/" target="_blank">
                                 <i class="bi bi-instagram"></i>
                             </a>
                         </div>
                         <div class="badge bg-primary mb-2">Mempelai Wanita</div>
                         <div>
-                            <p class="lead">Putri dari <br> Bapak Idar Sumardi dan Ibu Helmy Rakhmadiani</p>
+                            <p class="lead">Putri dari <br> Bapak Aripin (Alm) dan Ibu  Mulyati (Alm)</p>
                         </div>
                 </div>
             </div>
@@ -192,21 +243,21 @@
             <div class="col-md-4" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
                 <div class="card bg-transparent border-0 card-body">
                 <div class="text-center position-relative">
-                        <img src="{{ asset('img/client/7.png') }}" alt="" class="rounded-pill" width="70%">
+                        <img src="{{ asset('img/client/10.png') }}" alt="" class="rounded-pill" width="70%">
                         <div class="to-center" style="z-index:-1;margin-left: 4px;margin-top: -14px;">
                             <img src="{{ asset('img/shape-3.png') }}" alt="" class="" width="100%">
                         </div>
                     </div>
                     <div class="card-body">
-                        <h3 class="w-1 text-primary">Haerul Rizal</h3>
+                        <h3 class="w-1 text-primary">Jaenudin</h3>
                         <div class="mb-2">
-                            <a href="https://www.instagram.com/khaerulrizal06/" target="_blank">
+                            <a href="https://www.instagram.com/" target="_blank">
                                 <i class="bi bi-instagram"></i>
                             </a>
                         </div>
                         <div class="badge bg-primary mb-2">Mempelai Pria</div>
                         <div>
-                            <p class="lead">Putra dari <br> Bapak Wahyudin dan Ibu Ai dedeh</p>
+                            <p class="lead">Putra dari <br> Bapak Deden dan Ibu Euis</p>
                         </div>
                 </div>
             </div>
@@ -220,31 +271,31 @@
         <div class="row justify-content-center">
             <div class="col-md-4 mb-4 mb-md-0" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
                 <div class="card h-100">
-                    <img src="https://lh3.googleusercontent.com/pw/AM-JKLVej0o2Egg-cP3U0NVBc9js5qECzkPAmuvErePl3BzrjkUxCWpE4uGd3lRR9W-5UAk-_RauSZMzukqm4pyJQWvmUOF-gVG-64j7pQoqe7d91TKJ8UNIXXi3hdLhGqTXkbht5qOJBF6uaLyKl7KVTSOu=w974-h649-no" alt="" class="card-img-top">
+                    <img src="https://lh3.googleusercontent.com/pw/AM-JKLXdioy2ZqQQ72YO-yovR-EqQvafD5gALIJssDBsR7XVRgzAoBRmxDRBoKWWxS6XLbLAqnyjzZHL-Ju6qloFntMFZDu-Ew7NwYGKmQazF-z1wsB3IVBNyWyHrIlsh-evJjMNKhrt7DevFn0fW4Khy9Yv=w973-h649-no" alt="" class="card-img-top">
                     <div class="card-body">
                         <h3 class="w-1 text-primary">Akad Nikah</h3>
                         <hr>
-                        <h5 class="fw-bold text-primary">Kantor desa karangtengah</h5>
-                        <p>JL Raya Karangtengah, No. 709, Cibadak, Karangtengah, Sukabumi, Kabupaten Sukabumi, Jawa Barat 43351</p>
-                        <p><i class="bi bi-clock-fill me-2 text-primary"></i>09.00 WIB</p>
+                        <h5 class="fw-bold text-primary">Kediaman Mempelai Wanita</h5>
+                        <p>Kp. Babakan Situ RT.01 RW.03 desa. Perbawati Kec. Sukabumi</p>
+                        <p><i class="bi bi-clock-fill me-2 text-primary"></i>08.00 WIB</p>
                     </div>
-                    <a class="card-footer bg-primary text-white p-3" href="https://g.co/kgs/kYtSHd" target="_blank">
+                    <a class="card-footer bg-primary text-white p-3" href="#" target="_blank">
                         Open Gmaps
                     </a>
                 </div>
             </div>
             <div class="col-md-4" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
                 <div class="card h-100">
-                    <img src="https://lh3.googleusercontent.com/pw/AM-JKLVHhiUmAKpYUkgI_aTehQE5oaB-nlIyQWG3tN6pq0iafJRX45m4nA5xG3bQ6m6zBfUh-DTtiELWun9f8lEBYkmpnIC_KLziGMyO1OLKyNQQlLcddrucbVqgol-XOL0o9eYZTonF5SuMZZDibeFFzhxv=w925-h617-no" alt="" class="card-img-top">
+                    <img src="https://lh3.googleusercontent.com/pw/AM-JKLVWHbfSYjxFY1xlTN3nyAJWHoltZKMW3neRyJ9foD-2sMZDLWX4MzpJqvtjDncdE10mQc4JVcgD2EF4qWvXtzCU8cC-PSt0ZaDkcsH_LX593EBkGMCIpu7IxhaUeLMgQi01FKJiZNnHcDu7Tt1McJ0p=w973-h649-no" alt="" class="card-img-top">
                     <div class="card-body">
                         <h3 class="w-1 text-primary">Resepsi</h3>
 
                         <hr>
-                        <h5 class="fw-bold text-primary">Kantor desa karangtengah</h5>
-                        <p>JL Raya Karangtengah, No. 709, Cibadak, Karangtengah, Sukabumi, Kabupaten Sukabumi, Jawa Barat 43351</p>
+                        <h5 class="fw-bold text-primary">Kediaman Mempelai Wanita</h5>
+                        <p>Kp. Babakan Situ RT.01 RW.03 desa. Perbawati Kec. Sukabumi</p>
                         <p><i class="bi bi-clock-fill me-2 text-primary"></i>11.00 WIB - Selesai</p>
                     </div>
-                    <a class="card-footer bg-primary text-white p-3" href="https://g.co/kgs/kYtSHd" target="_blank">
+                    <a class="card-footer bg-primary text-white p-3" href="#" target="_blank">
                         Open Gmaps
                     </a>
                 </div>
@@ -260,64 +311,43 @@
             <p>Momen foto kebahagiaan kami</p>
         </div>
 
-    <div class="swiper slider-2" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+    <div class="swiper slider-2">
       <div class="swiper-wrapper">
-        
-      <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUC-rhUwcCL5JRHauZgsX2-ixQxIKUKG-RJWZMMb7CgTQBZFkX7t-L6BFO4IPm3O1NQFQL7v1V4moddBxyoV2C0axZbjmMTgjV3E0ks59ILTnf4MVgzqyhNjVkpXQTZg0JXfbgDw5TncLUEh6ekuedQ=w862-h574-no" data-caption="Rifha & Haerul" class="point">
-                <img src="https://lh3.googleusercontent.com/pw/AM-JKLUC-rhUwcCL5JRHauZgsX2-ixQxIKUKG-RJWZMMb7CgTQBZFkX7t-L6BFO4IPm3O1NQFQL7v1V4moddBxyoV2C0axZbjmMTgjV3E0ks59ILTnf4MVgzqyhNjVkpXQTZg0JXfbgDw5TncLUEh6ekuedQ=w862-h574-no" alt="" width="100%">
-            </a>
-        </div>
-      
         <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVa9xEp_tszW8l1KHCDV7TfaoS7J-jprvu0-EVYTCgq3KSsM-KLR4ftebMzGoxp0wIYNxiUoEDSIOFIR11HzvAiatiV1iuT8kg4UvRAcU7RVTdDmVMistHjpJBBOaXaAZIGw0um5BKRMuwjc62zqawD=w974-h649-no" data-caption="Rifha & Haerul" class="point">
-                <img src="https://lh3.googleusercontent.com/pw/AM-JKLVa9xEp_tszW8l1KHCDV7TfaoS7J-jprvu0-EVYTCgq3KSsM-KLR4ftebMzGoxp0wIYNxiUoEDSIOFIR11HzvAiatiV1iuT8kg4UvRAcU7RVTdDmVMistHjpJBBOaXaAZIGw0um5BKRMuwjc62zqawD=w974-h649-no" alt="" width="100%">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWe13tzbL3XlbpnOT5cWcbN0YOcegaDXZ4xAL-r4oNpZ1nf5pHIX9O4gBYkZmc629BsP5rW9taAk_EpCTWOGhGD30HByuJ9mucsMmtj_D5XRZhvO_idH6lnoMtDVkFbhQ0jHJS3a3cHPwsYg8nW_JNg=w433-h649-no" data-caption="Pia & Jae" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLWe13tzbL3XlbpnOT5cWcbN0YOcegaDXZ4xAL-r4oNpZ1nf5pHIX9O4gBYkZmc629BsP5rW9taAk_EpCTWOGhGD30HByuJ9mucsMmtj_D5XRZhvO_idH6lnoMtDVkFbhQ0jHJS3a3cHPwsYg8nW_JNg=w433-h649-no" alt="" width="100%">
             </a>
         </div>
-        
         <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWQJUCclOaHf9hco24xU5la9M0auRwebMDi2MKQULLtQ8htjm6uhwinEBMCQU_VE6xZtx15EYz9yHzmyMWoVAHWJYmRpxnRjJybRATWbCErf48PEWlXQNywy8xN358GJI5L5VQz9N5TISRBpMZWIILJ=w974-h649-no" data-caption="Rifha & Haerul" class="point">
-                <img src="https://lh3.googleusercontent.com/pw/AM-JKLWQJUCclOaHf9hco24xU5la9M0auRwebMDi2MKQULLtQ8htjm6uhwinEBMCQU_VE6xZtx15EYz9yHzmyMWoVAHWJYmRpxnRjJybRATWbCErf48PEWlXQNywy8xN358GJI5L5VQz9N5TISRBpMZWIILJ=w974-h649-no" alt="" width="100%">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUDGLkDE9wbPrCB1no2uA2xaeo0RVdL64nwe4zBJku8Xbj12b9FsbR1Q2gh-vxXV7Tml-fyWNc-7pdHP4Fh51C7hrqwFt6Dz594vatKxpYoGbWFBzI4IqupjnH-eoaYksVGjef8JwZJjrFMfho7Xe9G=w434-h649-no" data-caption="Pia & Jae" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLUDGLkDE9wbPrCB1no2uA2xaeo0RVdL64nwe4zBJku8Xbj12b9FsbR1Q2gh-vxXV7Tml-fyWNc-7pdHP4Fh51C7hrqwFt6Dz594vatKxpYoGbWFBzI4IqupjnH-eoaYksVGjef8JwZJjrFMfho7Xe9G=w434-h649-no" alt="" width="100%">
             </a>
         </div>
-        
         <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLV7XNQvxOXs6tC2ZmhAPukgUfqDJ36vpM79L45HgX_HVcN7kGmr4__n6N-UynddELUvyjoWLgLwrLceEqfmYgHUlmZoPogGP7rYHlhVPWZrFvnEGtCjFH8DZN_7i62L5nkzWk0vxkxV2Hsf5q9TzS1c=w974-h649-no" data-caption="Rifha & Haerul" class="point">
-                <img src="https://lh3.googleusercontent.com/pw/AM-JKLV7XNQvxOXs6tC2ZmhAPukgUfqDJ36vpM79L45HgX_HVcN7kGmr4__n6N-UynddELUvyjoWLgLwrLceEqfmYgHUlmZoPogGP7rYHlhVPWZrFvnEGtCjFH8DZN_7i62L5nkzWk0vxkxV2Hsf5q9TzS1c=w974-h649-no" alt="" width="100%">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLXXwiPAWK1WeXyJJqgpAwzBoYTt_pmVGOvbDCG4vP8_W14MMEBnvutC3i-xYbgbP_whtW2cP5P3IX_QJFg3XAK89ioGQgSE5sH54fJmfp0iyft_yFKWzkNW8JGApUDagVi3B47uY7MN_cWHM1zULien=w434-h649-no" data-caption="Pia & Jae" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLXXwiPAWK1WeXyJJqgpAwzBoYTt_pmVGOvbDCG4vP8_W14MMEBnvutC3i-xYbgbP_whtW2cP5P3IX_QJFg3XAK89ioGQgSE5sH54fJmfp0iyft_yFKWzkNW8JGApUDagVi3B47uY7MN_cWHM1zULien=w434-h649-no" alt="" width="100%">
             </a>
         </div>
-        
         <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWRnsdkpBGUUxSuRuta7ZZ97cS_l5c6aO_wHAcmzmKKJ2RXn6cWggDPyxkiL9EXLAYJ8_4BmM1FsbBaNiubh7TlqoU0k5SMlPa8vf0va77a88BzC4WtcFBSQjSXJ2FTDJjiUySTYg3rzRA8EzNZxlFP=w974-h649-no" data-caption="Rifha & Haerul" class="point">
-                <img src="https://lh3.googleusercontent.com/pw/AM-JKLWRnsdkpBGUUxSuRuta7ZZ97cS_l5c6aO_wHAcmzmKKJ2RXn6cWggDPyxkiL9EXLAYJ8_4BmM1FsbBaNiubh7TlqoU0k5SMlPa8vf0va77a88BzC4WtcFBSQjSXJ2FTDJjiUySTYg3rzRA8EzNZxlFP=w974-h649-no" alt="" width="100%">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWgH5fd2j9Bbccrj9nQmma3iDo3cRupYpEUk49RlCFYQbL03QNvwzZ75hHqqGgS5OZNV-DnFDXWmYRMw89qYqGNodNQL-bH3-dlZfgRPhdeHxlka0SYj0fa9N16k1XddVrJIMRzg9Unbfmmbgp6xD23=w434-h649-no" data-caption="Pia & Jae" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLWgH5fd2j9Bbccrj9nQmma3iDo3cRupYpEUk49RlCFYQbL03QNvwzZ75hHqqGgS5OZNV-DnFDXWmYRMw89qYqGNodNQL-bH3-dlZfgRPhdeHxlka0SYj0fa9N16k1XddVrJIMRzg9Unbfmmbgp6xD23=w434-h649-no" alt="" width="100%">
             </a>
         </div>
-        
         <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVej0o2Egg-cP3U0NVBc9js5qECzkPAmuvErePl3BzrjkUxCWpE4uGd3lRR9W-5UAk-_RauSZMzukqm4pyJQWvmUOF-gVG-64j7pQoqe7d91TKJ8UNIXXi3hdLhGqTXkbht5qOJBF6uaLyKl7KVTSOu=w974-h649-no" data-caption="Rifha & Haerul" class="point">
-                <img src="https://lh3.googleusercontent.com/pw/AM-JKLVej0o2Egg-cP3U0NVBc9js5qECzkPAmuvErePl3BzrjkUxCWpE4uGd3lRR9W-5UAk-_RauSZMzukqm4pyJQWvmUOF-gVG-64j7pQoqe7d91TKJ8UNIXXi3hdLhGqTXkbht5qOJBF6uaLyKl7KVTSOu=w974-h649-no" alt="" width="100%">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLXHOmZPBvjKfoTD9ASVF_XaTMzHzAxPCgRKyD8K_SkDSSg0dIp2B3j46kS8RiqjJisnhifWvY9QCh3jQaJBpfyTofXPFTvJTn1srn8O-eJvDOOreutlvFGOhZ1VluY02JiUSjq3uiRd5XGZdIani1L1=w434-h649-no" data-caption="Pia & Jae" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLXHOmZPBvjKfoTD9ASVF_XaTMzHzAxPCgRKyD8K_SkDSSg0dIp2B3j46kS8RiqjJisnhifWvY9QCh3jQaJBpfyTofXPFTvJTn1srn8O-eJvDOOreutlvFGOhZ1VluY02JiUSjq3uiRd5XGZdIani1L1=w434-h649-no" alt="" width="100%">
             </a>
         </div>
-        
         <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVWnxDqAUiQcn9n3j4mEG77g8tm0GbL0GK8lAO5StRvYp24xAZp1PP8WApjxwT5ff1sZ78M9b2sv9621N6AXjDFp4far_h7B0X7jYCt3EyglQy8uQ1QO7UQV9hW7oltyHBTk0UI4NNvF2lb7-vr0SjH=w974-h649-no" data-caption="Rifha & Haerul" class="point">
-                <img src="https://lh3.googleusercontent.com/pw/AM-JKLVWnxDqAUiQcn9n3j4mEG77g8tm0GbL0GK8lAO5StRvYp24xAZp1PP8WApjxwT5ff1sZ78M9b2sv9621N6AXjDFp4far_h7B0X7jYCt3EyglQy8uQ1QO7UQV9hW7oltyHBTk0UI4NNvF2lb7-vr0SjH=w974-h649-no" alt="" width="100%">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUfr1ejwyDhkSBaChxgtm5QfXnSOKckkbhXn0i-PqfMJKKrf2MMctrH37KwqmBI957zETC9sv8zKOV6Rv9E9djxUYOX5oLbjMnlyjz5l8yzn1eX362B3rjutUOHalJJICwS4MnwXb_TmS73xi3O-EFF=w434-h649-no" data-caption="Pia & Jae" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLUfr1ejwyDhkSBaChxgtm5QfXnSOKckkbhXn0i-PqfMJKKrf2MMctrH37KwqmBI957zETC9sv8zKOV6Rv9E9djxUYOX5oLbjMnlyjz5l8yzn1eX362B3rjutUOHalJJICwS4MnwXb_TmS73xi3O-EFF=w434-h649-no" alt="" width="100%">
             </a>
         </div>
-        
         <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVHhiUmAKpYUkgI_aTehQE5oaB-nlIyQWG3tN6pq0iafJRX45m4nA5xG3bQ6m6zBfUh-DTtiELWun9f8lEBYkmpnIC_KLziGMyO1OLKyNQQlLcddrucbVqgol-XOL0o9eYZTonF5SuMZZDibeFFzhxv=w925-h617-no" data-caption="Rifha & Haerul" class="point">
-                <img src="https://lh3.googleusercontent.com/pw/AM-JKLVHhiUmAKpYUkgI_aTehQE5oaB-nlIyQWG3tN6pq0iafJRX45m4nA5xG3bQ6m6zBfUh-DTtiELWun9f8lEBYkmpnIC_KLziGMyO1OLKyNQQlLcddrucbVqgol-XOL0o9eYZTonF5SuMZZDibeFFzhxv=w925-h617-no" alt="" width="100%">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUl5Yl2VqQY-kYvhbd6l3Q7NiVJRLR2xOV3QEaley4nw8dsjdeOkdxHtWDHAh8aqQhB8lLoz9pJO_SwXFPZ_xhsu-YwnofWw4X_qvp7OcGkjwaJgKLIDg4XWVtNJygDsZy3h0dYh_c0JBoDrPzrKcaN=w434-h649-no" data-caption="Pia & Jae" class="point">
+                <img src="https://lh3.googleusercontent.com/pw/AM-JKLUl5Yl2VqQY-kYvhbd6l3Q7NiVJRLR2xOV3QEaley4nw8dsjdeOkdxHtWDHAh8aqQhB8lLoz9pJO_SwXFPZ_xhsu-YwnofWw4X_qvp7OcGkjwaJgKLIDg4XWVtNJygDsZy3h0dYh_c0JBoDrPzrKcaN=w434-h649-no" alt="" width="100%">
             </a>
         </div>
-        
-        <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVNTm7o47h-fsA8OI8MEbPgMQj-BSsvfvtIEw58sLS8STXu3e5LtTjujA7eVFhhrOJVx7YmS4WR9sZEjWKZp51pS8p9duMmK1Wg4YvDdJ2LTvVncITDxUamgOYfTz8DqT7Z_6QLbJdMvDxVWLoWrlHA=w974-h649-no" data-caption="Rifha & Haerul" class="point">
-                <img src="https://lh3.googleusercontent.com/pw/AM-JKLVNTm7o47h-fsA8OI8MEbPgMQj-BSsvfvtIEw58sLS8STXu3e5LtTjujA7eVFhhrOJVx7YmS4WR9sZEjWKZp51pS8p9duMmK1Wg4YvDdJ2LTvVncITDxUamgOYfTz8DqT7Z_6QLbJdMvDxVWLoWrlHA=w974-h649-no" alt="" width="100%">
-            </a>
-        </div>
-      
-        
         
         
       </div>
@@ -334,10 +364,10 @@
         <i class="bi bi-envelope-open-fill display-1 text-primary"></i>
         <div class="my-3 text-primary" data-aos="zoom-out" data-aos-duration="1000" data-aos-delay="200">
             <div class="mb-3">
-                <i class="bi bi-check-circle-fill me-2"></i><span class="fw-bold">BCA</span> : 3770789060 <br><span class="fw-bold">AN</span> : Haerul Rizal
+                <i class="bi bi-check-circle-fill me-2"></i><span class="fw-bold">BANK</span> : 0000 <br><span class="fw-bold">AN</span> : xxxxxx
             </div>
             <div class="">
-                <button type="button" onclick="alert('Success copy rekening')" class="btn btn-copy btn-primary rounded-pill" data-clipboard-text="3770789060">Copy Rekening</button>
+                <button type="button" onclick="alert('Success copy rekening')" class="btn btn-copy btn-primary rounded-pill" data-clipboard-text="0000">Copy Rekening</button>
             </div>
         </div>
     </div>
@@ -440,12 +470,6 @@
     </div>
     </div>
 </section>
-<section class="space-m text-center">
-    <div class="container">
-        <h1 class="w-1 text-primary mb-0">Photo Shot by</h1>
-        <img src="{{ asset('img/partner/leggero.jpeg') }}" alt="" width="200">
-    </div>
-</section>
 @include('layouts.footer_client')
 @endsection
 @section('css')
@@ -455,13 +479,13 @@
 
 @media (max-width: 767.98px) { 
     .mod-1 {
-        background:url('https://lh3.googleusercontent.com/pw/AM-JKLUMLpF1KzKUgWcEGhghtGK1L0G37o57pzST_joRmr15qltsMyg0Do507ED2GvO9RvlwgU9O9Yr94kDb6Sjv6DD7APFiZcfr_jd0MOOTNFZgAJw0cbTgQjAj7g5NAJAhs12DYrQiMbn37tV9wFlxDHLv=w488-h649-no');
+        background:url('https://lh3.googleusercontent.com/pw/AM-JKLWgH5fd2j9Bbccrj9nQmma3iDo3cRupYpEUk49RlCFYQbL03QNvwzZ75hHqqGgS5OZNV-DnFDXWmYRMw89qYqGNodNQL-bH3-dlZfgRPhdeHxlka0SYj0fa9N16k1XddVrJIMRzg9Unbfmmbgp6xD23=w434-h649-no');
     }
 }
 
 @media (min-width: 991.98px) { 
     .mod-1 {
-        background:url('https://lh3.googleusercontent.com/pw/AM-JKLUC-rhUwcCL5JRHauZgsX2-ixQxIKUKG-RJWZMMb7CgTQBZFkX7t-L6BFO4IPm3O1NQFQL7v1V4moddBxyoV2C0axZbjmMTgjV3E0ks59ILTnf4MVgzqyhNjVkpXQTZg0JXfbgDw5TncLUEh6ekuedQ=w862-h574-no');
+        background:url('https://lh3.googleusercontent.com/pw/AM-JKLVY6OcOHCE6347H7SdPhDzY3IMHh25m8x9RjJHFsMDzEOGGCJQDbLUrnJ4f3BVtTMjjTF6K2-CWFzodC-z3F8lZQR3m9xocMDGgg7xYr7tDsTBmJtqWQqpQPTZSaemrUwqMDNftkHAs7SBAWOuN5DOK=w973-h649-no');
     }
 }
 
@@ -483,10 +507,24 @@
     var swiper1 = new Swiper(".slider-1", {
         spaceBetween: 30,
         autoplay: true,
-        effect : "fade",
         pagination: {
-          el: ".swiper-pagination",
-          clickable: true,
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+        breakpoints: {
+            640: {
+                slidesPerView: 1,
+                spaceBetween: 20,
+                effect : "fade",
+          },
+          768: {
+            slidesPerView: 2,
+            spaceBetween: 40,
+          },
+          1024: {
+            slidesPerView: 3,
+            spaceBetween: 50,
+          },
         },
       });
     
@@ -507,13 +545,13 @@
             spaceBetween: 40,
           },
           1024: {
-            slidesPerView: 2,
+            slidesPerView: 3,
             spaceBetween: 50,
           },
         },
       });
 
-      $('#countdown').countdown('2022/06/12', function(event) {
+      $('#countdown').countdown('2022/07/03', function(event) {
             // $(this).html(event.strftime('%d:%H:%M:%S'));
             $('.days').text(event.strftime('%D'));
             $('.hours').text(event.strftime('%H'));
@@ -541,7 +579,7 @@
           type:"POST",
           data:{
             "_token": "{{ csrf_token() }}",
-            id:4,
+            id:5,
             name:name,
             message:message,
             present:present,
@@ -587,18 +625,18 @@
 </script>
 @endsection
 @section('meta')
-<title>Pernikahankita.id | Rifha & Haerul</title>
-<meta itemprop="name" content="Pernikahankita.id | Rifha & Haerul">
-<meta itemprop="description" content="The wedding of Rifha & Haerul. Minggu, 12 Juni 2022">
-<meta itemprop="image" content="{{ asset('img/client/meta-4.jpg') }}">
+<title>Pernikahankita.id | Silpia & Jaenudin</title>
+<meta itemprop="name" content="Pernikahankita.id | Silpia & Jaenudin">
+<meta itemprop="description" content="The wedding of Silpia & Jaenudin. Minggu, 03 Juli 2022">
+<meta itemprop="image" content="{{ asset('img/client/meta-5.jpg') }}">
 
-<meta name="twitter:title" content="Pernikahankita.id | Rifha & Haerul">
-<meta name="twitter:description" content="The wedding of Rifha & Haerul. Minggu, 12 Juni 2022">
-<meta name="twitter:image:src" content="{{ asset('img/client/meta-4.jpg') }}">
+<meta name="twitter:title" content="Pernikahankita.id | Silpia & Jaenudin">
+<meta name="twitter:description" content="The wedding of Silpia & Jaenudin. Minggu, 03 Juli 2022">
+<meta name="twitter:image:src" content="{{ asset('img/client/meta-5.jpg') }}">
 <meta name=twitter:card content="summary_large_image">
 
-<meta property="og:title" content="Pernikahankita.id | Rifha & Haerul" />
-<meta property="og:image" content="{{ asset('img/client/meta-4.jpg') }}" />
-<meta property="og:description" content="The wedding of Rifha & Haerul. Minggu, 12 Juni 2022" />
-<meta property="og:url" content="{{ route('client.rifha') }}" />
+<meta property="og:title" content="Pernikahankita.id | Silpia & Jaenudin" />
+<meta property="og:image" content="{{ asset('img/client/meta-5.jpg') }}" />
+<meta property="og:description" content="The wedding of Silpia & Jaenudin. Minggu, 03 Juli 2022" />
+<meta property="og:url" content="{{ route('client.pia') }}" />
 @endsection

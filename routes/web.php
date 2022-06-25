@@ -24,6 +24,7 @@ Auth::routes([
 
 Route::GET('/','ClientController@index')->name('index');
 
+Route::GET('/pia-jae', 'ClientController@pia')->name('client.pia');
 Route::GET('/dita-dika', 'ClientController@dita')->name('client.dita');
 Route::GET('/rifha-haerul', 'ClientController@rifha')->name('client.rifha');
 Route::GET('/lala-andri', 'ClientController@lala')->name('client.lala');
