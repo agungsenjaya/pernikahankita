@@ -15,6 +15,12 @@ class ClientController extends Controller
         return view('client.home') ;
     }
 
+    public function siti()
+    {
+        $comment = Comment::where('client_id', 5)->get();
+        return view('client.siti',compact('comment'));
+    }
+    
     public function pia()
     {
         $comment = Comment::where('client_id', 5)->get();
