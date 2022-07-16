@@ -56,7 +56,7 @@
     <div class="d-flex align-items-center min-vh-100 container text-center">
         <div class="w-100" style="z-index:2">
         <p class="lead text-white">Wedding Invitation</p>
-        <h1 class="display-1 w-1 mb-0 text-white">Siti & Tiras</h1>
+        <h1 class="display-1 w-1 mb-0 text-white">Rahma & Tiras</h1>
         <p class="lead text-white">Minggu, 24 Juli 2022</p>
         <button class="btn btn-primary rounded-pill btn-open" onclick="play()" data-bs-dismiss="modal">Open Invitation</button>
         @if(!empty($_GET))
@@ -80,7 +80,7 @@
 <div class="to-center grad-1 d-flex align-items-center text-center text-white">
     <div class="container">
         <p class="lead">Wedding Invitation</p>
-        <h1 class="display-1 w-1 mb-0">Siti & Tiras</h1>
+        <h1 class="display-1 w-1 mb-0">Rahma & Tiras</h1>
         <p class="lead">Minggu, 24 Juli 2022</p>
     </div>
 </div>
@@ -168,42 +168,42 @@
       <div class="swiper-wrapper">
         
       <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUiktJ8PPK4XNB8plyGjfVeqIXJphrZEh1daY_8pL9sRT8NZD1-ojfxDe36WGoeoaBk7KJMAijWP0ZjKgFOffYv1Uy6rkzutBujAQ5BMD2P03kd7M2-ztvUNnxKLqT8zkE4OD7KP3cGyco8oY4MkR9B=w974-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUiktJ8PPK4XNB8plyGjfVeqIXJphrZEh1daY_8pL9sRT8NZD1-ojfxDe36WGoeoaBk7KJMAijWP0ZjKgFOffYv1Uy6rkzutBujAQ5BMD2P03kd7M2-ztvUNnxKLqT8zkE4OD7KP3cGyco8oY4MkR9B=w974-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLUiktJ8PPK4XNB8plyGjfVeqIXJphrZEh1daY_8pL9sRT8NZD1-ojfxDe36WGoeoaBk7KJMAijWP0ZjKgFOffYv1Uy6rkzutBujAQ5BMD2P03kd7M2-ztvUNnxKLqT8zkE4OD7KP3cGyco8oY4MkR9B=w974-h649-no" alt="" width="100%">
             </a>
         </div>
       <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLXoJRnPFffleLTaSZ0-Yskwe3g0XWuvJvZ2FEwL6oQ9Biqe3lC4IpDrW5bzdvMbiwo9nF9GsEdTuOyHKSnNhi2pFJ6beu7AaKcohW4Jn-0rBXAJy4fLxqFR2FnAyg7IvjcEz_265qQc0fbGRN5tP2oT=w974-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLXoJRnPFffleLTaSZ0-Yskwe3g0XWuvJvZ2FEwL6oQ9Biqe3lC4IpDrW5bzdvMbiwo9nF9GsEdTuOyHKSnNhi2pFJ6beu7AaKcohW4Jn-0rBXAJy4fLxqFR2FnAyg7IvjcEz_265qQc0fbGRN5tP2oT=w974-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLXoJRnPFffleLTaSZ0-Yskwe3g0XWuvJvZ2FEwL6oQ9Biqe3lC4IpDrW5bzdvMbiwo9nF9GsEdTuOyHKSnNhi2pFJ6beu7AaKcohW4Jn-0rBXAJy4fLxqFR2FnAyg7IvjcEz_265qQc0fbGRN5tP2oT=w974-h649-no" alt="" width="100%">
             </a>
         </div>
       <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWDPywrBVn5R5jVkqJ_CrmTjJUw00rwi-i0eSKJtDllbUmfR4MyQ9kpk3QygSEX8t4sHoH4dTqKIcFqvNM7vjNCvvTX8855BhzNY42u15HqO9ejnaQoLq6j2u_WF9IZI_TduJW6Hn6RRNfi-Jqw-Blp=w974-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWDPywrBVn5R5jVkqJ_CrmTjJUw00rwi-i0eSKJtDllbUmfR4MyQ9kpk3QygSEX8t4sHoH4dTqKIcFqvNM7vjNCvvTX8855BhzNY42u15HqO9ejnaQoLq6j2u_WF9IZI_TduJW6Hn6RRNfi-Jqw-Blp=w974-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLWDPywrBVn5R5jVkqJ_CrmTjJUw00rwi-i0eSKJtDllbUmfR4MyQ9kpk3QygSEX8t4sHoH4dTqKIcFqvNM7vjNCvvTX8855BhzNY42u15HqO9ejnaQoLq6j2u_WF9IZI_TduJW6Hn6RRNfi-Jqw-Blp=w974-h649-no" alt="" width="100%">
             </a>
         </div>
       <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVUgfAxPgjx6SKmYRarCu3fB9eIxww1FiKcuYMSWcsQh2wW_6R5xngQgkGtoMBKDjb95lIg94jv2Cs-AKHM1UZlg-KEw-nfrnoseIuCB6_lQj3NoIOyg2lIFh1JteS5Vr5OkDMDj9hy0_qBmiO42bBO=w973-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVUgfAxPgjx6SKmYRarCu3fB9eIxww1FiKcuYMSWcsQh2wW_6R5xngQgkGtoMBKDjb95lIg94jv2Cs-AKHM1UZlg-KEw-nfrnoseIuCB6_lQj3NoIOyg2lIFh1JteS5Vr5OkDMDj9hy0_qBmiO42bBO=w973-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLVUgfAxPgjx6SKmYRarCu3fB9eIxww1FiKcuYMSWcsQh2wW_6R5xngQgkGtoMBKDjb95lIg94jv2Cs-AKHM1UZlg-KEw-nfrnoseIuCB6_lQj3NoIOyg2lIFh1JteS5Vr5OkDMDj9hy0_qBmiO42bBO=w973-h649-no" alt="" width="100%">
             </a>
         </div>
       <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLW2TR_bK6me1SMbOl2JgD5j8bt_oxczdWNkpqVUxVFLuFxGE9m0cra0orJCoG4QP9h6quWivDKGQuLoKxnV2gCfahruG3TmI1FLJzo_s8inTpmf9lDFdwUSiGAwO_ULtcWMpzumPBaueOyZTEDVQqOl=w974-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLW2TR_bK6me1SMbOl2JgD5j8bt_oxczdWNkpqVUxVFLuFxGE9m0cra0orJCoG4QP9h6quWivDKGQuLoKxnV2gCfahruG3TmI1FLJzo_s8inTpmf9lDFdwUSiGAwO_ULtcWMpzumPBaueOyZTEDVQqOl=w974-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLW2TR_bK6me1SMbOl2JgD5j8bt_oxczdWNkpqVUxVFLuFxGE9m0cra0orJCoG4QP9h6quWivDKGQuLoKxnV2gCfahruG3TmI1FLJzo_s8inTpmf9lDFdwUSiGAwO_ULtcWMpzumPBaueOyZTEDVQqOl=w974-h649-no" alt="" width="100%">
             </a>
         </div>
       <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVQ02-E6T7oOJEj-UJUEILX5JE4gzWvdDo5VNXpreIYwE0P33v0cxQofRwqbtArdN8ENeGvNjTaFG6tlSD4Kv9tsU6nxe459vo2N1dfmIqGYo5vft6_k3leayVzThlypthhfU5GyIhPpGKF7lcs3URW=w973-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVQ02-E6T7oOJEj-UJUEILX5JE4gzWvdDo5VNXpreIYwE0P33v0cxQofRwqbtArdN8ENeGvNjTaFG6tlSD4Kv9tsU6nxe459vo2N1dfmIqGYo5vft6_k3leayVzThlypthhfU5GyIhPpGKF7lcs3URW=w973-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLVQ02-E6T7oOJEj-UJUEILX5JE4gzWvdDo5VNXpreIYwE0P33v0cxQofRwqbtArdN8ENeGvNjTaFG6tlSD4Kv9tsU6nxe459vo2N1dfmIqGYo5vft6_k3leayVzThlypthhfU5GyIhPpGKF7lcs3URW=w973-h649-no" alt="" width="100%">
             </a>
         </div>
       <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVqPWDFVfGIIYuhGnI9x_vfN7bn9h4WO6toy1Qzaxc2zZqyRS0soSSAVujTmtyde-UtngUYSyTGVA3PSc_IcCs8s1oG5aOe3XNnjNpwglelKDIOzweUOjf9UePZPV2DJhh6D_Qy5cObplh3tT6YogC7=w974-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVqPWDFVfGIIYuhGnI9x_vfN7bn9h4WO6toy1Qzaxc2zZqyRS0soSSAVujTmtyde-UtngUYSyTGVA3PSc_IcCs8s1oG5aOe3XNnjNpwglelKDIOzweUOjf9UePZPV2DJhh6D_Qy5cObplh3tT6YogC7=w974-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLVqPWDFVfGIIYuhGnI9x_vfN7bn9h4WO6toy1Qzaxc2zZqyRS0soSSAVujTmtyde-UtngUYSyTGVA3PSc_IcCs8s1oG5aOe3XNnjNpwglelKDIOzweUOjf9UePZPV2DJhh6D_Qy5cObplh3tT6YogC7=w974-h649-no" alt="" width="100%">
             </a>
         </div>
       <div class="swiper-slide">
-            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLXoY7ycpQ800fRwlcZHsS02PrsiUieImaiZZqAJicatRAnC5SKh7Kk5AJpMdWyg9QnRkttBRhNrAVtyJR7Jw8ufLDeO7EFcdDADpgr_80ixMj7eh3VBvsXWb9zj4DUb7QU-ovXTDuUHNVZ8Cj0Qes1U=w973-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="pot" data-src="https://lh3.googleusercontent.com/pw/AM-JKLXoY7ycpQ800fRwlcZHsS02PrsiUieImaiZZqAJicatRAnC5SKh7Kk5AJpMdWyg9QnRkttBRhNrAVtyJR7Jw8ufLDeO7EFcdDADpgr_80ixMj7eh3VBvsXWb9zj4DUb7QU-ovXTDuUHNVZ8Cj0Qes1U=w973-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLXoY7ycpQ800fRwlcZHsS02PrsiUieImaiZZqAJicatRAnC5SKh7Kk5AJpMdWyg9QnRkttBRhNrAVtyJR7Jw8ufLDeO7EFcdDADpgr_80ixMj7eh3VBvsXWb9zj4DUb7QU-ovXTDuUHNVZ8Cj0Qes1U=w973-h649-no" alt="" width="100%">
             </a>
         </div>
@@ -227,7 +227,7 @@
             <div class="col-md-4" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="100">
                 <div class="card bg-transparent border-0 card-body">
                     <div class="text-center position-relative">
-                        <img src="{{ asset('img/client/9.png') }}" alt="" class="rounded-pill" width="70%">
+                        <img src="{{ asset('img/client/11.png') }}" alt="" class="rounded-pill" width="70%">
                         <div class="to-center" style="z-index:-1;margin-left: 4px;margin-top: -14px;">
                             <img src="{{ asset('img/shape-3.png') }}" alt="" class="" width="100%">
                         </div>
@@ -249,7 +249,7 @@
             <div class="col-md-4" data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200">
                 <div class="card bg-transparent border-0 card-body">
                 <div class="text-center position-relative">
-                        <img src="{{ asset('img/client/10.png') }}" alt="" class="rounded-pill" width="70%">
+                        <img src="{{ asset('img/client/12.png') }}" alt="" class="rounded-pill" width="70%">
                         <div class="to-center" style="z-index:-1;margin-left: 4px;margin-top: -14px;">
                             <img src="{{ asset('img/shape-3.png') }}" alt="" class="" width="100%">
                         </div>
@@ -277,7 +277,7 @@
         <div class="row justify-content-center">
             <div class="col-md-4 mb-4 mb-md-0" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200">
                 <div class="card h-100">
-                    <img src="https://lh3.googleusercontent.com/pw/AM-JKLXdioy2ZqQQ72YO-yovR-EqQvafD5gALIJssDBsR7XVRgzAoBRmxDRBoKWWxS6XLbLAqnyjzZHL-Ju6qloFntMFZDu-Ew7NwYGKmQazF-z1wsB3IVBNyWyHrIlsh-evJjMNKhrt7DevFn0fW4Khy9Yv=w973-h649-no" alt="" class="card-img-top">
+                    <img src="https://lh3.googleusercontent.com/pw/AM-JKLXoY7ycpQ800fRwlcZHsS02PrsiUieImaiZZqAJicatRAnC5SKh7Kk5AJpMdWyg9QnRkttBRhNrAVtyJR7Jw8ufLDeO7EFcdDADpgr_80ixMj7eh3VBvsXWb9zj4DUb7QU-ovXTDuUHNVZ8Cj0Qes1U=w973-h649-no" alt="" class="card-img-top">
                     <div class="card-body">
                         <h3 class="w-1 text-primary">Akad Nikah</h3>
                         <hr>
@@ -292,7 +292,7 @@
             </div>
             <div class="col-md-4" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="200">
                 <div class="card h-100">
-                    <img src="https://lh3.googleusercontent.com/pw/AM-JKLVWHbfSYjxFY1xlTN3nyAJWHoltZKMW3neRyJ9foD-2sMZDLWX4MzpJqvtjDncdE10mQc4JVcgD2EF4qWvXtzCU8cC-PSt0ZaDkcsH_LX593EBkGMCIpu7IxhaUeLMgQi01FKJiZNnHcDu7Tt1McJ0p=w973-h649-no" alt="" class="card-img-top">
+                    <img src="https://lh3.googleusercontent.com/pw/AM-JKLUiktJ8PPK4XNB8plyGjfVeqIXJphrZEh1daY_8pL9sRT8NZD1-ojfxDe36WGoeoaBk7KJMAijWP0ZjKgFOffYv1Uy6rkzutBujAQ5BMD2P03kd7M2-ztvUNnxKLqT8zkE4OD7KP3cGyco8oY4MkR9B=w974-h649-no" alt="" class="card-img-top">
                     <div class="card-body">
                         <h3 class="w-1 text-primary">Resepsi</h3>
 
@@ -310,7 +310,7 @@
     </div>
 </section>
 </div>
-<section class="space-m">
+<section class="space-m" style="overflow:hidden">
     <div class="container">
     <div class="text-center mb-4" data-aos="zoom-out" data-aos-duration="1000">
             <h1 class="w-1 text-primary mb-0">True Story</h1>
@@ -329,57 +329,57 @@
     <div class="swiper slider-2">
       <div class="swiper-wrapper">
         <div class="swiper-slide">
-            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWOK3ao8WFWoKSxW1uCs0Kl1yKwPlekYzww-LjR84EmZU9dEiInDRUkyk6kZukN3pmmDmp8Zs8mAN4DEEvs_SOLBGGcdZNtX3Ssr5GfGP0W3LzZ5say6Ag8svVLexf8qolrxCLEDf0T1DZfAbBa3gFj=w433-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWOK3ao8WFWoKSxW1uCs0Kl1yKwPlekYzww-LjR84EmZU9dEiInDRUkyk6kZukN3pmmDmp8Zs8mAN4DEEvs_SOLBGGcdZNtX3Ssr5GfGP0W3LzZ5say6Ag8svVLexf8qolrxCLEDf0T1DZfAbBa3gFj=w433-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLWOK3ao8WFWoKSxW1uCs0Kl1yKwPlekYzww-LjR84EmZU9dEiInDRUkyk6kZukN3pmmDmp8Zs8mAN4DEEvs_SOLBGGcdZNtX3Ssr5GfGP0W3LzZ5say6Ag8svVLexf8qolrxCLEDf0T1DZfAbBa3gFj=w433-h649-no" alt="" width="100%">
             </a>
         </div>
         <div class="swiper-slide">
-            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWwPBsw7VKtD0npANtFmjSB2eef5mJUgh7guPWMQ3l7A4kgNze_dHFQ4zVZv1z2lyF-wKBo5eY0yJQjaEkdc7xXTERhhqjT4eSA5HahekFmmctPT89saafrFxtPaN4qcZ1dsA3j0DtjUpLj-qdjq7CQ=w433-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWwPBsw7VKtD0npANtFmjSB2eef5mJUgh7guPWMQ3l7A4kgNze_dHFQ4zVZv1z2lyF-wKBo5eY0yJQjaEkdc7xXTERhhqjT4eSA5HahekFmmctPT89saafrFxtPaN4qcZ1dsA3j0DtjUpLj-qdjq7CQ=w433-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLWwPBsw7VKtD0npANtFmjSB2eef5mJUgh7guPWMQ3l7A4kgNze_dHFQ4zVZv1z2lyF-wKBo5eY0yJQjaEkdc7xXTERhhqjT4eSA5HahekFmmctPT89saafrFxtPaN4qcZ1dsA3j0DtjUpLj-qdjq7CQ=w433-h649-no" alt="" width="100%">
             </a>
         </div>
         <div class="swiper-slide">
-            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUCffOiOXa08jPSkN9Pni47V20dg4l1VF3_AcLGnlS9Zcf2xRIBeFbyEaa_RWJaKOEtJ9AhUpDNgIyH9il179KI06wfvP1u6EniKZpJhQ1ZWoFfR1-QsdI6VMMy59ZLGMCcweCIBs7XGDd-HWqsvglU=w433-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUCffOiOXa08jPSkN9Pni47V20dg4l1VF3_AcLGnlS9Zcf2xRIBeFbyEaa_RWJaKOEtJ9AhUpDNgIyH9il179KI06wfvP1u6EniKZpJhQ1ZWoFfR1-QsdI6VMMy59ZLGMCcweCIBs7XGDd-HWqsvglU=w433-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLUCffOiOXa08jPSkN9Pni47V20dg4l1VF3_AcLGnlS9Zcf2xRIBeFbyEaa_RWJaKOEtJ9AhUpDNgIyH9il179KI06wfvP1u6EniKZpJhQ1ZWoFfR1-QsdI6VMMy59ZLGMCcweCIBs7XGDd-HWqsvglU=w433-h649-no" alt="" width="100%">
             </a>
         </div>
         <div class="swiper-slide">
-            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUoJUJny-whcJ5BAH7RKZkiz2G3vupoMKPXkSXD3_tA2CTJUkcSUnQwsVRogaK8OkkBk1t6pN6kmll04hYgim2f0T1JZcWfvlzMlKc3o-LlKaqpgK3EEH0MX6lazKfRiSkkpqMx2TY_45X4_id-MNMN=w433-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUoJUJny-whcJ5BAH7RKZkiz2G3vupoMKPXkSXD3_tA2CTJUkcSUnQwsVRogaK8OkkBk1t6pN6kmll04hYgim2f0T1JZcWfvlzMlKc3o-LlKaqpgK3EEH0MX6lazKfRiSkkpqMx2TY_45X4_id-MNMN=w433-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLUoJUJny-whcJ5BAH7RKZkiz2G3vupoMKPXkSXD3_tA2CTJUkcSUnQwsVRogaK8OkkBk1t6pN6kmll04hYgim2f0T1JZcWfvlzMlKc3o-LlKaqpgK3EEH0MX6lazKfRiSkkpqMx2TY_45X4_id-MNMN=w433-h649-no" alt="" width="100%">
             </a>
         </div>
         <div class="swiper-slide">
-            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLXXztd9joFxDy_yEOO_AeroDyRJAelQSTD0D0nNq7QkZkgLRX1rx2Pk-xNBWw_SX9aYVblUDOUq_5KxwYrdL9bQPLUNfQBHiMy3ZlSwy_UuEeHHUNSOsPtr9I5XXorxKyNhKOaCIj-J_XTexIwcrpIm=w433-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLXXztd9joFxDy_yEOO_AeroDyRJAelQSTD0D0nNq7QkZkgLRX1rx2Pk-xNBWw_SX9aYVblUDOUq_5KxwYrdL9bQPLUNfQBHiMy3ZlSwy_UuEeHHUNSOsPtr9I5XXorxKyNhKOaCIj-J_XTexIwcrpIm=w433-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLXXztd9joFxDy_yEOO_AeroDyRJAelQSTD0D0nNq7QkZkgLRX1rx2Pk-xNBWw_SX9aYVblUDOUq_5KxwYrdL9bQPLUNfQBHiMy3ZlSwy_UuEeHHUNSOsPtr9I5XXorxKyNhKOaCIj-J_XTexIwcrpIm=w433-h649-no" alt="" width="100%">
             </a>
         </div>
         <div class="swiper-slide">
-            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWEmYHYd8KVkwX6bn55v83lZ92XfCIPOpxoXdktPQ44HWQMk1Vq-2aS71u-NQ0qIo8iNqdX-QxlGG7bVGPeLfM4MqUyaPmyD8OsMyF_DZfQiY-Jjr7TJiiOcpxAGLnz9eBWGSHdaQ20nFFum3C6cRaD=w434-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWEmYHYd8KVkwX6bn55v83lZ92XfCIPOpxoXdktPQ44HWQMk1Vq-2aS71u-NQ0qIo8iNqdX-QxlGG7bVGPeLfM4MqUyaPmyD8OsMyF_DZfQiY-Jjr7TJiiOcpxAGLnz9eBWGSHdaQ20nFFum3C6cRaD=w434-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLWEmYHYd8KVkwX6bn55v83lZ92XfCIPOpxoXdktPQ44HWQMk1Vq-2aS71u-NQ0qIo8iNqdX-QxlGG7bVGPeLfM4MqUyaPmyD8OsMyF_DZfQiY-Jjr7TJiiOcpxAGLnz9eBWGSHdaQ20nFFum3C6cRaD=w434-h649-no" alt="" width="100%">
             </a>
         </div>
         <div class="swiper-slide">
-            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVz0iu8hoVix_P7imFI8sCEpMnONPoznU7JaRKdQKPfsWCy29vNdqvE3HU_j0IUQ37rK7pnsfFcD3TBZyLQUpNZ4DF2MdOJB6eFjeWU4y-6zFn0yADBPCJrnpa8Hu9xrnO5uTBLnfFUb0LY4BeFZkOH=w433-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVz0iu8hoVix_P7imFI8sCEpMnONPoznU7JaRKdQKPfsWCy29vNdqvE3HU_j0IUQ37rK7pnsfFcD3TBZyLQUpNZ4DF2MdOJB6eFjeWU4y-6zFn0yADBPCJrnpa8Hu9xrnO5uTBLnfFUb0LY4BeFZkOH=w433-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLVz0iu8hoVix_P7imFI8sCEpMnONPoznU7JaRKdQKPfsWCy29vNdqvE3HU_j0IUQ37rK7pnsfFcD3TBZyLQUpNZ4DF2MdOJB6eFjeWU4y-6zFn0yADBPCJrnpa8Hu9xrnO5uTBLnfFUb0LY4BeFZkOH=w433-h649-no" alt="" width="100%">
             </a>
         </div>
         <div class="swiper-slide">
-            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLXU-H7VGgZFPn7yfY5vSXsv_jEPikQz3KbhqXL1qdRAwXtsT7bS_sYapZJ-TnIUXYqgWv8Xn_c5S8mDBbRBdXKRzuYrqIn1qY9Svuk2z_k-LfxWxUlI6qOZwMY3o9xfKYhgf1jROXJ84zd7Fjd57CRa=w433-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLXU-H7VGgZFPn7yfY5vSXsv_jEPikQz3KbhqXL1qdRAwXtsT7bS_sYapZJ-TnIUXYqgWv8Xn_c5S8mDBbRBdXKRzuYrqIn1qY9Svuk2z_k-LfxWxUlI6qOZwMY3o9xfKYhgf1jROXJ84zd7Fjd57CRa=w433-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLXU-H7VGgZFPn7yfY5vSXsv_jEPikQz3KbhqXL1qdRAwXtsT7bS_sYapZJ-TnIUXYqgWv8Xn_c5S8mDBbRBdXKRzuYrqIn1qY9Svuk2z_k-LfxWxUlI6qOZwMY3o9xfKYhgf1jROXJ84zd7Fjd57CRa=w433-h649-no" alt="" width="100%">
             </a>
         </div>
         <div class="swiper-slide">
-            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVrXHbVhXjrdaIKLRIwBtt9S5uwI4o-cLxnRVvZBxPzc6HLL2vhFNuDrFQ9ZEjOV8q5LXSUu6n0XS2lvkInRbJBtsP8lf6eB9-Umob2Qnm5TwRJIcM2Zja4kOO5yQQtAZ3OFJstu1uN2CXhP4w709_p=w433-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLVrXHbVhXjrdaIKLRIwBtt9S5uwI4o-cLxnRVvZBxPzc6HLL2vhFNuDrFQ9ZEjOV8q5LXSUu6n0XS2lvkInRbJBtsP8lf6eB9-Umob2Qnm5TwRJIcM2Zja4kOO5yQQtAZ3OFJstu1uN2CXhP4w709_p=w433-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLVrXHbVhXjrdaIKLRIwBtt9S5uwI4o-cLxnRVvZBxPzc6HLL2vhFNuDrFQ9ZEjOV8q5LXSUu6n0XS2lvkInRbJBtsP8lf6eB9-Umob2Qnm5TwRJIcM2Zja4kOO5yQQtAZ3OFJstu1uN2CXhP4w709_p=w433-h649-no" alt="" width="100%">
             </a>
         </div>
         <div class="swiper-slide">
-            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWcDRI0PIeIAkgRONYPgVsMqMSjB1cZm_lvINuOkNR118YB51qt1v9V1M46yyqxi2yi3gicyTCuCxuFMCNk-wbvQwb7BXA9dqc8oIYP9cPaNCdJ38bAHU5nBEYMEieODCcevO2Ax7Oc68u0Mg_rixOZ=w434-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLWcDRI0PIeIAkgRONYPgVsMqMSjB1cZm_lvINuOkNR118YB51qt1v9V1M46yyqxi2yi3gicyTCuCxuFMCNk-wbvQwb7BXA9dqc8oIYP9cPaNCdJ38bAHU5nBEYMEieODCcevO2Ax7Oc68u0Mg_rixOZ=w434-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLWcDRI0PIeIAkgRONYPgVsMqMSjB1cZm_lvINuOkNR118YB51qt1v9V1M46yyqxi2yi3gicyTCuCxuFMCNk-wbvQwb7BXA9dqc8oIYP9cPaNCdJ38bAHU5nBEYMEieODCcevO2Ax7Oc68u0Mg_rixOZ=w434-h649-no" alt="" width="100%">
             </a>
         </div>
         <div class="swiper-slide">
-            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUY0NUK55JkcXCV5ecrO4ec0kwEuxd508lA_5upecaPR-GNXBpR2lI6Sd5My-wfZaz30ZUmgLzSRc6wpUfgLtTPPFmq8mfmNz6WrJ9vr2hq58PZ3LD4ffkJZag4Mn4YQ9AzV6QlRIMh_BwaKi6N3rUa=w434-h649-no" data-caption="Siti & Tiras" class="point">
+            <a data-fancybox="land" data-src="https://lh3.googleusercontent.com/pw/AM-JKLUY0NUK55JkcXCV5ecrO4ec0kwEuxd508lA_5upecaPR-GNXBpR2lI6Sd5My-wfZaz30ZUmgLzSRc6wpUfgLtTPPFmq8mfmNz6WrJ9vr2hq58PZ3LD4ffkJZag4Mn4YQ9AzV6QlRIMh_BwaKi6N3rUa=w434-h649-no" data-caption="Rahma & Tiras" class="point">
                 <img src="https://lh3.googleusercontent.com/pw/AM-JKLUY0NUK55JkcXCV5ecrO4ec0kwEuxd508lA_5upecaPR-GNXBpR2lI6Sd5My-wfZaz30ZUmgLzSRc6wpUfgLtTPPFmq8mfmNz6WrJ9vr2hq58PZ3LD4ffkJZag4Mn4YQ9AzV6QlRIMh_BwaKi6N3rUa=w434-h649-no" alt="" width="100%">
             </a>
         </div>
@@ -514,13 +514,13 @@
 
 @media (max-width: 767.98px) { 
     .mod-1 {
-        background:url('https://lh3.googleusercontent.com/pw/AM-JKLWgH5fd2j9Bbccrj9nQmma3iDo3cRupYpEUk49RlCFYQbL03QNvwzZ75hHqqGgS5OZNV-DnFDXWmYRMw89qYqGNodNQL-bH3-dlZfgRPhdeHxlka0SYj0fa9N16k1XddVrJIMRzg9Unbfmmbgp6xD23=w434-h649-no');
+        background:url('https://lh3.googleusercontent.com/pw/AM-JKLUoJUJny-whcJ5BAH7RKZkiz2G3vupoMKPXkSXD3_tA2CTJUkcSUnQwsVRogaK8OkkBk1t6pN6kmll04hYgim2f0T1JZcWfvlzMlKc3o-LlKaqpgK3EEH0MX6lazKfRiSkkpqMx2TY_45X4_id-MNMN=w433-h649-no');
     }
 }
 
 @media (min-width: 991.98px) { 
     .mod-1 {
-        background:url('https://lh3.googleusercontent.com/pw/AM-JKLVY6OcOHCE6347H7SdPhDzY3IMHh25m8x9RjJHFsMDzEOGGCJQDbLUrnJ4f3BVtTMjjTF6K2-CWFzodC-z3F8lZQR3m9xocMDGgg7xYr7tDsTBmJtqWQqpQPTZSaemrUwqMDNftkHAs7SBAWOuN5DOK=w973-h649-no');
+        background:url('https://lh3.googleusercontent.com/pw/AM-JKLWDPywrBVn5R5jVkqJ_CrmTjJUw00rwi-i0eSKJtDllbUmfR4MyQ9kpk3QygSEX8t4sHoH4dTqKIcFqvNM7vjNCvvTX8855BhzNY42u15HqO9ejnaQoLq6j2u_WF9IZI_TduJW6Hn6RRNfi-Jqw-Blp=w974-h649-no');
     }
 }
 
@@ -660,18 +660,18 @@
 </script>
 @endsection
 @section('meta')
-<title>Pernikahankita.id | Siti & Tiras</title>
-<meta itemprop="name" content="Pernikahankita.id | Siti & Tiras">
-<meta itemprop="description" content="The wedding of Siti & Tiras. Minggu, 24 Juli 2022">
-<meta itemprop="image" content="{{ asset('img/client/meta-5.jpg') }}">
+<title>Pernikahankita.id | Rahma & Tiras</title>
+<meta itemprop="name" content="Pernikahankita.id | Rahma & Tiras">
+<meta itemprop="description" content="The wedding of Rahma & Tiras. Minggu, 24 Juli 2022">
+<meta itemprop="image" content="{{ asset('img/client/meta-6.jpg') }}">
 
-<meta name="twitter:title" content="Pernikahankita.id | Siti & Tiras">
-<meta name="twitter:description" content="The wedding of Siti & Tiras. Minggu, 24 Juli 2022">
-<meta name="twitter:image:src" content="{{ asset('img/client/meta-5.jpg') }}">
+<meta name="twitter:title" content="Pernikahankita.id | Rahma & Tiras">
+<meta name="twitter:description" content="The wedding of Rahma & Tiras. Minggu, 24 Juli 2022">
+<meta name="twitter:image:src" content="{{ asset('img/client/meta-6.jpg') }}">
 <meta name=twitter:card content="summary_large_image">
 
-<meta property="og:title" content="Pernikahankita.id | Siti & Tiras" />
-<meta property="og:image" content="{{ asset('img/client/meta-5.jpg') }}" />
-<meta property="og:description" content="The wedding of Siti & Tiras. Minggu, 24 Juli 2022" />
+<meta property="og:title" content="Pernikahankita.id | Rahma & Tiras" />
+<meta property="og:image" content="{{ asset('img/client/meta-6.jpg') }}" />
+<meta property="og:description" content="The wedding of Rahma & Tiras. Minggu, 24 Juli 2022" />
 <meta property="og:url" content="{{ route('client.siti') }}" />
 @endsection
